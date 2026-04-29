@@ -1,15 +1,16 @@
 # PYTHON SIMPLE CALCULATOR
-### This is a basic calculator made using Python. It can perform:
+### 📌This is a simple calculator built using Python. It performs basic operations like:
 - Addition(+)
 - Subtraction(-)
 - Multiplication(*)
 - Division(/)
-## HOW TO RUN
-- Install Python
-- Download the file
-- Run in terminal:
-- python calculator.py
-
+## 🚀 Features
+- Uses function for each operation
+- Handles division by Zero
+- User-Friendly input
+## ▶️ HOW TO RUN
+```bash
+python calculator.py
 ## EXAMPLE
 - Enter first number: 10
 - Enter second number: 5
