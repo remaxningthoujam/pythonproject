@@ -8,6 +8,8 @@
 - Uses function for each operation
 - Handles division by Zero
 - User-Friendly input
+## AUTHOR
+### Remax Ningthoujam Meetei
 ## ▶️ HOW TO RUN
 ```bash
 python calculator.py
@@ -16,5 +18,4 @@ python calculator.py
 - Enter second number: 5
 - Enter operator (+, -, *, /):+
 - Output: 15
-## AUTHOR
-### Remax Ningthoujam Meetei
+
